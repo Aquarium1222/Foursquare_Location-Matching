@@ -1,0 +1,6 @@
+,id,name,latitude,longitude,address,city,state,zip,country,url,phone,categories,point_of_interest
+0,E_000001272c6c5d,Café Stad Oudenaarde,50.859975,3.634196,Abdijstraat,Nederename,Oost-Vlaanderen,9700,BE,,,Bars,P_677e840bb6fc7e
+1,E_000002eae2a589,Carioca Manero,-22.907225,-43.178244,,,,,BR,,,Brazilian Restaurants,P_d82910d8382a83
+2,E_000007f24ebc95,ร้านตัดผมการาเกด,13.780813,100.484900,,,,,TH,,,Salons / Barbershops,P_b1066599e78477
+3,E_000008a8ba4f48,Turkcell,37.844510,27.844202,Adnan Menderes Bulvarı,,,,TR,,,Mobile Phone Shops,P_b2ed86905a4cd3
+4,E_00001d92066153,Restaurante Casa Cofiño,43.338196,-4.326821,,Caviedes,Cantabria,,ES,,,Spanish Restaurants,P_809a884d4407fb
