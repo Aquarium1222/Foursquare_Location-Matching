@@ -130,3 +130,7 @@ dmypy.json
 
 .idea/
 data/
+checkpoint/
+lock/
+packages/
+sen_model/
